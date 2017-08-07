@@ -1,0 +1,10 @@
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\bin\Release\UIAutomationDetector.exe.config
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\bin\Release\UIAutomationDetector.exe
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\bin\Release\UIAutomationDetector.pdb
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Release\UIAutomationDetector.DialogHandle.resources
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Release\UIAutomationDetector.FormMain.resources
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Release\UIAutomationDetector.Properties.Resources.resources
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Release\UIAutomationDetector.csproj.GenerateResource.Cache
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Release\UIAutomationDetector.exe
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Release\UIAutomationDetector.pdb
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Release\UIAutomationDetector.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\bin\Debug\UIAutomationDetector.exe.config
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\bin\Debug\UIAutomationDetector.exe
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\bin\Debug\UIAutomationDetector.pdb
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Debug\UIAutomationDetector.csprojResolveAssemblyReference.cache
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Debug\UIAutomationDetector.DialogHandle.resources
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Debug\UIAutomationDetector.FormMain.resources
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Debug\UIAutomationDetector.Properties.Resources.resources
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Debug\UIAutomationDetector.csproj.GenerateResource.Cache
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Debug\UIAutomationDetector.exe
+C:\Src\tools\trunk\Source\UIAutomationDetector\UIAutomationDetector\obj\Debug\UIAutomationDetector.pdb
